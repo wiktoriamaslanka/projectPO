@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdukt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produkt xsi:type="ProduktPromocyjny">
+    <kod>PSP-ZI-ME-XLCZ</kod>
+    <NazwaProduktu>Spodnie</NazwaProduktu>
+    <Rodzaj>Zimowe</Rodzaj>
+    <Rozmiar>XL</Rozmiar>
+    <Kolor>Czarny</Kolor>
+    <Dzial>Meski</Dzial>
+    <Cena>178.87</Cena>
+    <cenaPromocyjna>134.15</cenaPromocyjna>
+    <Wysokosc>25</Wysokosc>
+  </Produkt>
+</ArrayOfProdukt>
